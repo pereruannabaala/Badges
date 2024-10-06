@@ -10,3 +10,5 @@ Submit pull requests to open-source or private repositories.
 + Ensure that your pull requests meet the repository’s standards (coding guidelines, tests, etc.).
 + Successfully merge your pull request, either by the project maintainer or yourself, depending on permissions.
 + Contribute frequently through PRs to showcase consistent involvement.
+
+## Badge Details

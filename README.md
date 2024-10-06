@@ -13,4 +13,4 @@ Submit pull requests to open-source or private repositories.
 
 ## Badge Details
 + **Icon**: The Pull Shark badge icon features a shark, symbolizing an active, assertive role in managing and merging changes into a project.
-
++ **Visibility**: Once earned, the badge is visible on your GitHub profile under the “Achievements” section.

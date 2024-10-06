@@ -12,3 +12,5 @@ Submit pull requests to open-source or private repositories.
 + Contribute frequently through PRs to showcase consistent involvement.
 
 ## Badge Details
++ *Icon*: The Pull Shark badge icon features a shark, symbolizing an active, assertive role in managing and merging changes into a project.
+

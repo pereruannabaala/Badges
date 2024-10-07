@@ -19,3 +19,4 @@ Submit pull requests to open-source or private repositories.
 The pull shark highlights
 + **Collaboration Skills**: Demonstrates your ability to work within a team, communicate effectively, and adhere to best practices for code reviews.
 + **Project Contribution**: A pull request signals active contribution to a project, meaning you are helping shape its development and direction.
++ **GitHub Profile Visibility**: Earning this badge can increase the attractiveness of your GitHub profile, showcasing your engagement in open-source or team-driven projects.

@@ -18,3 +18,4 @@ Submit pull requests to open-source or private repositories.
 ## Why it matters
 The pull shark highlights
 + **Collaboration Skills**: Demonstrates your ability to work within a team, communicate effectively, and adhere to best practices for code reviews.
++ **Project Contribution**: A pull request signals active contribution to a project, meaning you are helping shape its development and direction.
